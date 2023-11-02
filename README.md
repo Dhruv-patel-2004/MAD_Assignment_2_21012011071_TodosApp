@@ -24,25 +24,25 @@ Certainly, here are some common challenges faced when developing a simple to-do 
 
 3.User Support and Feedback: Handling user support requests and feedback to continuously improve the app and address user concerns or issues.
 
-                                     -------------------------------To Do list Page-----------------------------------
+ -------------------------------To Do list Page-----------------------------------
 
 
 ![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
 
-                                ![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
+ ![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
 
 
 
-                                             -----------------------------Adding task--------------------------------
+-----------------------------Adding task--------------------------------
 
 
 ![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
 
 
-                                ![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
 
 
-                                      -------------------------------delete task------------------------------------
+-------------------------------delete task------------------------------------
 
 ![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
 

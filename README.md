@@ -1,5 +1,3 @@
-![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
-
 -----------------------------To-Do list app--------------------------
 
 1.Title Input: Users can enter a title for their to-do list.
@@ -25,4 +23,17 @@ Certainly, here are some common challenges faced when developing a simple to-do 
 2.Accessibility: Ensuring the app is accessible to users with disabilities, which may involve complying with accessibility standards and guidelines.
 
 3.User Support and Feedback: Handling user support requests and feedback to continuously improve the app and address user concerns or issues.
+
+-------------------------------To Do list Page-----------------------------------
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
+
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
+
+-----------------------------Adding task--------------------------------
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
+
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
+
+-------------------------------delete task------------------------------------
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
 

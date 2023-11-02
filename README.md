@@ -27,22 +27,22 @@ Certainly, here are some common challenges faced when developing a simple to-do 
 -------------------------------To Do list Page-----------------------------------
 
 
-![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
 
 
-![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
 
 
 -----------------------------Adding task--------------------------------
 
 
-![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
 
 
-![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
 
 
 -------------------------------delete task------------------------------------
 
-![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿# MAD_Assignment-2_21012011071
+![image](https://github.com/Dhruv-patel-2004/MAD_Assignment_2_21012011071_TodosApp/assets/140106897/04ee3b85-aae2-451a-abcb-58f5240728a1)﻿
 

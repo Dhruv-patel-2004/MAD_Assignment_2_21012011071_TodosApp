@@ -9,7 +9,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath ("com.android.tools.build:gradle:8.1.0")  // Update to a version that supports Android API 34 or later.
+        classpath ("com.android.tools.build:gradle:8.1.0")  
     }
 }
 
